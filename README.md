@@ -29,3 +29,8 @@ This repo template will allow you to build Perseus using Github Actions. This wi
 ![image](https://github.com/CapitalGrin/AzurLaneBiliBili-Perseus/assets/109933411/07f37070-015d-4b40-84e1-b23a1f6c856c)
 3. replace ALL the packge name in patch_perseus.sh , Ctrl+F would do the work.(Don't change the suffix though)
 ![image](https://github.com/CapitalGrin/AzurLaneBiliBili-Perseus/assets/109933411/d91800e7-ca14-4b91-9931-07acc28a5d56)
+
+## Credits
+* [Egoistically/Perseus](https://github.com/Egoistically/Perseus)
+* [JMBQ/azurlane](https://github.com/JMBQ/azurlane)
+* [CapitalGrin/AzurLaneBiliBili-Perseus](https://github.com/CapitalGrin/AzurLaneBiliBili-Perseus)
